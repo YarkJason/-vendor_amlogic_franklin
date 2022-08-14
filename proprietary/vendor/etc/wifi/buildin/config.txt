@@ -1,0 +1,8 @@
+#Everything here is special for Hs2754D
+#Egda=1
+#vlhg=1
+kso_enable=0
+mimo_bw_cap=1
+ccode=XS
+regrev=0
+
